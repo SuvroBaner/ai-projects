@@ -1,0 +1,11 @@
+openai
+streamlit
+streamlit-chat
+watchdog
+pyaudio
+wave
+langchain
+google-search-results
+tiktoken
+redis
+gptcache

@@ -1,3 +1,0 @@
-openai
-pyaudio
-wave

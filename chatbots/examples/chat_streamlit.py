@@ -39,4 +39,9 @@ def main():
     
 if __name__ == '__main__':
     main()
+
+# xcode-select --install
+# pip install watchdog
+
+# streamlit run examples/chat_streamlit.py
     
