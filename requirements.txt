@@ -9,3 +9,4 @@ google-search-results
 tiktoken
 redis
 gptcache
+pydantic
