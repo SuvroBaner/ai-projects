@@ -10,3 +10,9 @@ tiktoken
 redis
 gptcache
 pydantic
+fastapi[all]
+SQLAlchemy-Utils
+psycopg2-binary
+huggingface_hub
+ipywidgets
+transformers

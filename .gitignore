@@ -2,3 +2,6 @@
 /.DS_Store
 .ipynb_checkpoints/
 lang-chain/.*.db
+lang-chain/*.json
+lang-chain/*.yaml
+lang-chain/*.db
