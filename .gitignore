@@ -5,3 +5,4 @@ lang-chain/.*.db
 lang-chain/*.json
 lang-chain/*.yaml
 lang-chain/*.db
+research_papers/.DS_Store
