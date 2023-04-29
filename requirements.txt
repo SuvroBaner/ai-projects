@@ -16,3 +16,4 @@ psycopg2-binary
 huggingface_hub
 ipywidgets
 transformers
+sentence_transformers
