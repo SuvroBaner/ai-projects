@@ -18,3 +18,7 @@ ipywidgets
 transformers
 sentence_transformers
 feast
+plotly
+statsmodels
+matplotlib
+yfinance
