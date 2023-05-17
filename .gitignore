@@ -7,3 +7,10 @@ lang-chain/*.yaml
 lang-chain/*.db
 research_papers/.DS_Store
 my_feature_repo
+mlops/.ipynb_checkpoints/
+mlops/tfdv/.ipynb_checkpoints/
+mlops/tfdv/week-1/data
+mlops/tfdv/week-1/img/
+*.csv
+*.DS_Store
+*.data

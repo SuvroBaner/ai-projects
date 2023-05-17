@@ -22,3 +22,6 @@ plotly
 statsmodels
 matplotlib
 yfinance
+streamlit_pandas_profiling
+tensorflow-macos
+tfx
